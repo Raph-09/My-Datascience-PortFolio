@@ -1,6 +1,6 @@
 # Name: A. Raphael Akpan
 # About: I am a Datascientist(Data Analyis,NLP,Deep Learning,Machine Learning,Flask,SQL)
-## Experience: I have 1 year of Internship Experience in the Analytics Industry.
+## Experience: I have 1 year of Internship Experience in the Analytics Industry, and below are the list of projects I have done:
 
 ## Projects
                              
