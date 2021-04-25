@@ -1,6 +1,6 @@
 # My Datascience Portfolio
-## Name: A. Raphael Akpan
-## About: I am a Datascientist(Data Analyis,NLP,Deep Learning,Machine Learning,Flask,SQL)
+# Name: A. Raphael Akpan
+# About: I am a Datascientist(Data Analyis,NLP,Deep Learning,Machine Learning,Flask,SQL)
 ## Experience: I have 1 year of Internship Experience in the Analytics Industry.
 ### [Project1: CREDIT CARD FRAUD DETECTION(OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
