@@ -66,5 +66,5 @@ The models(Random Forest and Naive Bayes) gave an accuracy score of 70%.
 We live in a world with lots of fake news articles, and the internet helps to spread them even faster. If we can find a way to capture these fake news articles on time, it will save many folks. This is the motivation behind this project,  in which I predicted if the news is fake by using the title.
 The LSTM model gave an accuracy of 92%.
 
-### [BlogPost:Mall Customer Segmentation Project Using Clustering Algorithms](https://akpan1653.medium.com/mall-customer-segmentation-project-using-clustering-algorithms-d459d31135ae?source=your_stories_page-------------------------------------)
+### [BlogPost:Mall Customer Segmentation Project Using Clustering Algorithms](https://akpan1653.medium.com/mall-customer-segmentation-project-using-clustering-algorithms-d459d31135ae?source=friends_link&sk=a6c5b2600d15b0b473d27939b27a422c)
 This is a blog post in which I explain how to implement "mall customer segmentation" using clustering algorithms. The clustering algorithms I covered in the article are KMeans clustering and DBSCAN clustering. Silhouette coefficient was used to evaluate the performance of the clustering algorithms.  KMeans performed better than DBSCAN clustering.
