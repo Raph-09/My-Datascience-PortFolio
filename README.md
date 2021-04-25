@@ -1,4 +1,3 @@
-# My Datascience Portfolio
 # Name: A. Raphael Akpan
 # About: I am a Datascientist(Data Analyis,NLP,Deep Learning,Machine Learning,Flask,SQL)
 ## Experience: I have 1 year of Internship Experience in the Analytics Industry.
