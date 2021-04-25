@@ -1,5 +1,5 @@
 # Name: A. Raphael Akpan
-# About: I am a Data scientist and a blogger.
+# About: I am a datascientist and a blogger.
 ## Experience: I have 1 year of Internship Experience in the Analytics Industry, and below are the list of projects I have done:       
 
 
