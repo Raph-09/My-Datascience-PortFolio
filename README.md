@@ -43,7 +43,7 @@ The r2 of the models on the test set is given below:
 R2 of voting regressor: 93%
 R2 of of random forest regressor: 93%
 R2 of knn_regression  is: 92
-R2 of of lasso_regression: 83
+R2 of of lasso_regression: 83.
 
 ### [Project6: Air Quality Prediction (OVERVIEW)](https://github.com/Raph-09/Deep-Learning/blob/main/ANN%20PROJECTS/(Ann)Air_Quality.ipynb)
 This project aims to predict the air quality of an area by using pm2.5 as a factor that determines if the air is polluted.
@@ -61,5 +61,10 @@ The stock market is a huge market that has made many millionaires. Therefore, it
 This project tries to predict the stock price given 25 news headlines of a given company.
 The models(Random Forest and Naive Bayes) gave an accuracy score of 70%.
 
-### [Project8: Sediment Analysis (OVERVIEW)](https://github.com/Raph-09/NLP/blob/main/stock_sentiment_analysis.ipynb)
+### [Project9:Fake News Detection](https://github.com/Raph-09/Deep-Learning/blob/main/RNN_LSTM/(LSTM)_Fake_News_Prediction_.ipynb)
 
+We live in a world with lots of fake news articles, and the internet helps to spread them even faster. If we can find a way to capture these fake news articles on time, it will save many folks. This is the motivation behind this project,  in which I predicted if the news is fake by using the title.
+The LSTM model gave an accuracy of 92%.
+
+### [BlogPost:Mall Customer Segmentation Project Using Clustering Algorithms](https://github.com/Raph-09/Deep-Learning/blob/main/RNN_LSTM/(LSTM)_Fake_News_Prediction_.ipynb)
+This is a blog post in which I explain how to implement "mall customer segmentation" using clustering algorithms. The clustering algorithms I covered in the article are KMeans clustering and DBSCAN clustering. Silhouette coefficient was used to evaluate the performance of the clustering algorithms.  KMeans performed better than DBSCAN clustering.
