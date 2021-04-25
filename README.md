@@ -1,6 +1,7 @@
-# Raph_Portfolio
-## My Datascience Portfolio
-
+# My Datascience Portfolio
+## Name: A. Raphael Akpan
+## About: I am a Datascientist(Data Analyis,NLP,Deep Learning,Machine Learning,Flask,SQL)
+## Experience: I have 1 year of Internship Experience in the Analytics Industry.
 ### Project1: CREDIT CARD FRAUD DETECTION(OVERVIEW)
 
 This is a classification problem in which we aim to predict if a transaction is fraudulent. The dataset comprised 31 columns and 284807 records. The imbalanced nature of the dataset was fixed using a technique called oversampling.  Exploratory Data Analysis, Feature Selection, and Feature Scaling were performed, and important features were chosen to make the data ready for model building.
