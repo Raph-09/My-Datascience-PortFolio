@@ -1,6 +1,4 @@
-# Name: A. Raphael Akpan
-# About:  I am a data scientist(ML, DL, NLP, FLASK)
-## Experience: I have 1 year of Internship Experience in the Analytics Industry, and below are the list of projects I have done:       
+# LIST OF PROJECT      
 
 
 ### [Project1: Credit Card Fraud Detection (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
