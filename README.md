@@ -1,4 +1,6 @@
-![my_pics](https://user-images.githubusercontent.com/72034856/121651843-f5a1f500-ca92-11eb-8aaf-409d91419eb2.jpg)
+![my_pics (1)](https://user-images.githubusercontent.com/72034856/121653419-95ac4e00-ca94-11eb-83e8-695c0cad92c8.jpg)
+
+
 
 
 # LIST OF PROJECTS      
