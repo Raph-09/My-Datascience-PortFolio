@@ -1,4 +1,4 @@
-# LIST OF PROJECT      
+# LIST OF PROJECTS      
 
 
 ### [Project1: Credit Card Fraud Detection (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
