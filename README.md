@@ -5,13 +5,13 @@
 
 ### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
-This is a classification problem in which we aim to predict if a transaction is fraudulent. The dataset comprised 31 columns and 284807 records. The imbalanced nature of the dataset was fixed using a technique called oversampling.  Exploratory Data Analysis, Feature Selection, and Feature Scaling were performed, and important features were chosen to make the data ready for model building.
-Below is the summary of the performance of each of the machine learning models:
-Logistic Regression(accuracy-97% and recall- 94%),
-Naive Bayes(accuracy-98 and recall-92%),
-Decision Tree(accuracy-99% and recall-85%),
-Hard-Voting-Classififer(accuracy-99% and recall-84%),
-Soft-Voting-Classifier(accuracy-100% and recall-85%).
+The project aims to lessen the burden of Head of Recruitment(HR) by making it easier for the HR to predict the salary of an employee.
+This project is an end to end project where I explored the data, engineered the features, test models and deployed the best model into the Flask app.
+The following steps where followed;
+1) Feature Engineering: missing values where handled
+2) Exporatory data analysis:I explored the data for insight
+4) Feature Scaling: standard scaler was used
+5) Lasso regression Model 
 ![Hiring (1)](https://user-images.githubusercontent.com/72034856/135874025-4d3c6918-52bc-4cf2-a851-f85da5ea6587.png)
 
 
