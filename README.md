@@ -12,7 +12,8 @@ Naive Bayes(accuracy-98 and recall-92%),
 Decision Tree(accuracy-99% and recall-85%),
 Hard-Voting-Classififer(accuracy-99% and recall-84%),
 Soft-Voting-Classifier(accuracy-100% and recall-85%).
-![Hiring](https://user-images.githubusercontent.com/72034856/135730614-34da7f23-8fbb-4176-9b94-820aaff843d6.png)
+![Hiring (1)](https://user-images.githubusercontent.com/72034856/135874025-4d3c6918-52bc-4cf2-a851-f85da5ea6587.png)
+
 
 
 ### [Project1: Credit Card Fraud Detection (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
