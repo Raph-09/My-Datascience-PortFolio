@@ -9,10 +9,13 @@ The project aims to lessen the burden of Head of Recruitment(HR) by making it ea
 This project is an end to end project where I explored the data, engineered the features, test models and deployed the best model into the Flask app.
 The following steps where followed;
 1) Feature Engineering: missing values where handled
-2) Exporatory data analysis:I explored the data for insight
-4) Feature Scaling: standard scaler was used
-5) Lasso regression Model 
-![Hiring (1)](https://user-images.githubusercontent.com/72034856/135874025-4d3c6918-52bc-4cf2-a851-f85da5ea6587.png)
+2) Exporatory data analysis: Explored the data for insight
+4) Feature Scaling: Standard Scaler was used
+5) Lasso regression Model  was used for predictive modelling
+6) Save the model as a pickle file
+7) Build Flask App and Deploy the App into heroku platform
+
+![Hiring (2)](https://user-images.githubusercontent.com/72034856/135885774-1c082c06-ca5b-4b8e-a9f0-414f1033aa28.png)
 
 
 
