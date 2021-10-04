@@ -5,7 +5,7 @@
 
 ### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
-LINK TO APP: https://salary-app-1.herokuapp.com/
+LINK TO APP: (https://salary-app-1.herokuapp.com/)
 
 The project aims to lessen the burden of Head of Recruitment(HR) by making it easier for the HR to predict the salary of an employee.
 This project is an end to end project where I explored the data, engineered the features, test models and deployed the best model into the Flask app.
