@@ -17,10 +17,6 @@ The following steps where followed;
 6) Save the model as a pickle file
 7) Build Flask App and Deploy the App into heroku platform
 
-![Hiring (2)](https://user-images.githubusercontent.com/72034856/135885774-1c082c06-ca5b-4b8e-a9f0-414f1033aa28.png)
-
-
-
 ### [Project1: Credit Card Fraud Detection (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
 This is a classification problem in which we aim to predict if a transaction is fraudulent. The dataset comprised 31 columns and 284807 records. The imbalanced nature of the dataset was fixed using a technique called oversampling.  Exploratory Data Analysis, Feature Selection, and Feature Scaling were performed, and important features were chosen to make the data ready for model building.
