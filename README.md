@@ -3,10 +3,6 @@
 
 # LIST OF PROJECTS 
 
-<p align="center">
-<iframe title="LUTIN SALES  DAX PROJECT - Page 8" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=82d4006d-d6c8-4e05-bb81-4b8e13494f20&autoAuth=true&ctid=43994e17-d7ee-4cee-a29c-0cc86959e9a6&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-</p>
-
 ### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
 ### [LINK TO HEROKU APP](https://salary-app-1.herokuapp.com/)
