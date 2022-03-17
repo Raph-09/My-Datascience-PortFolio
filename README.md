@@ -1,5 +1,6 @@
 ![IMG_20200304_203709 (1)](https://user-images.githubusercontent.com/72034856/130875598-302dffe1-3954-4039-845d-20844932cfee.png)
 
+https://github.com/Raph-09/Raphael/blob/main/README.md
 
 # DATA ANALYSIS PROJECTS
 
@@ -12,19 +13,17 @@
 ### ETL(Data Cleaning)
 
 1) Source of data is wikipedia--https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory
-
-
 2) PowerBI web connector is used to pull the data into PowerBI
-
+ 
 4) Data Transformation is carried out
 
-a)Remove the "total" rows
+    a) Remove the "total" rows
 
-b)Convert decimals into percentages
+    b) Convert decimals into percentages
 
-c)Replace errors with zeros 
+    c) Replace errors with zeros 
 
-d)Rename invalid column names with correct names
+    d) Rename invalid column names with correct names
   
 4)Close and Apply
   
@@ -71,6 +70,8 @@ The source of data is kaggle.com
 
 6)Etheruem price trend and moving averages
 
+#
+# DATA SCIENCE PROJECTS
 
 ### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
