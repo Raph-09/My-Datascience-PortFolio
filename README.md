@@ -3,14 +3,16 @@
 
 # DATA ANALYSIS PROJECTS
 
-### [Project1:Covid19 Data Analysis](https://github.com/Raph-09/CORONAVIRUS-DATA-ANALYSIS-PowerBI-)
+# [COVID19 DATA ANALYSIS](https://github.com/Raph-09/CORONAVIRUS-DATA-ANALYSIS-PowerBI-)
 
 ![covid_pg1](https://user-images.githubusercontent.com/72034856/153959826-29f0543c-b6b7-4166-b58e-ffb14497222e.PNG)
 
 ![covid_pg2](https://user-images.githubusercontent.com/72034856/153959984-f154a829-2285-4e9d-b074-6d7f738d6c80.PNG)
 
-# ETL(DATA CLEANING)
+### ETL(Data Cleaning)
+
 1) Source of data is wikipedia--https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory
+
 
 2) PowerBI web connector is used to pull the data into PowerBI
 
@@ -26,7 +28,7 @@ d)Rename invalid column names with correct names
   
 4)Close and Apply
   
-# DATA VISUALIZATION
+### Data Visualization
 
 1)Use Region as slicer to filter the data
 
@@ -42,7 +44,11 @@ d)Rename invalid column names with correct names
 
 7)Vaccination by Regions
 
-# Cryptocurrency Market  Analysis
+###
+#
+
+# [CRYPTOCURRENCY MARKET ANALYSIS](https://github.com/Raph-09/Cryptocurrency-Market-Analysis)
+
 
 ![image](https://user-images.githubusercontent.com/72034856/158796822-96d1dea5-0f7f-4416-8af1-bf2495caa47d.png)
 
