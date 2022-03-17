@@ -73,6 +73,13 @@ The source of data is kaggle.com
 #
 # DATA SCIENCE PROJECTS
 
+# [Project1: MALL CUSTOMER SEGMENTATION ANALYSIS](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
+
+![CLUSTERING](https://user-images.githubusercontent.com/72034856/158807176-1266efa2-4c77-4e64-a0a1-8c78f099446c.jpg)
+
+This is a blog post in which I explain how to implement "mall customer segmentation" using clustering algorithms. The clustering algorithms I covered in the article are KMeans clustering and DBSCAN clustering. Silhouette coefficient was used to evaluate the performance of the clustering algorithms.  KMeans performed better than DBSCAN clustering.
+
+
 ### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
 ### [LINK TO HEROKU APP](https://salary-app-1.herokuapp.com/)
