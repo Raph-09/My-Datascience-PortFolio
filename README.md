@@ -80,7 +80,7 @@ The source of data is kaggle.com
 This is a blog post in which I explain how to implement "mall customer segmentation" using clustering algorithms. The clustering algorithms I covered in the article are KMeans clustering and DBSCAN clustering. Silhouette coefficient was used to evaluate the performance of the clustering algorithms.  KMeans performed better than DBSCAN clustering.
 
 
-### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
+### [Project2: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
 ### [LINK TO HEROKU APP](https://salary-app-1.herokuapp.com/)
 
@@ -113,11 +113,11 @@ DECISION TREE-100% ACCURACY,
 NAIVE BAYES-100% ACCURACY,
 RANDOM FOREST-100% ACCURACY.
 
-### [Project3: Employee Salary Prediction (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/employee-salary-prediction-r2-100.ipynb)
+### [Project4: Employee Salary Prediction (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/employee-salary-prediction-r2-100.ipynb)
 The goal of this project is to predict the salary of an employee,  given his or her blood group, age, eating habits,  and lifestyle.
 EDA was performed, features selected, and the machine learning model gave r2 of 100%.
 
-### [Project4: House Price Prediction (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/house-price-prediction.ipynb)
+### [Project5: House Price Prediction (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/house-price-prediction.ipynb)
 
 This is one of the most popular datasets in the machine learning community, in which we try to predict the price of a house in Boston.
 The data has 81 columns and 1460 rows.
@@ -127,7 +127,7 @@ RANDOM FOREST (MAE=MAE: 5363.9,RMSE: 7627.95),
 XGBOOST (MAE: 11110.25,RMSE: 14983.58).
 
 
-### [Project5: Used Car Price Pridiction (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/vehicle-price-prediction-cardekho.ipynb)
+### [Project6: Used Car Price Pridiction (OVERVIEW)](https://github.com/Raph-09/Machine-Learning/blob/main/vehicle-price-prediction-cardekho.ipynb)
 
 The objective of this project is to predict the price of a used car,  given the car's showroom price, distance covered, year of purchase, mode of transmission, and fuel type.
 The r2 of the models on the test set is given below:
@@ -136,23 +136,23 @@ R2 of of random forest regressor: 93%,
 R2 of knn_regression  is: 92,
 R2 of of lasso_regression: 83.
 
-### [Project6: Air Quality Prediction (OVERVIEW)](https://github.com/Raph-09/Deep-Learning/blob/main/ANN%20PROJECTS/(Ann)Air_Quality.ipynb)
+### [Project7: Air Quality Prediction (OVERVIEW)](https://github.com/Raph-09/Deep-Learning/blob/main/ANN%20PROJECTS/(Ann)Air_Quality.ipynb)
 This project aims to predict the air quality of an area by using pm2.5 as a factor that determines if the air is polluted.
 The reason for using pm2.5 is because it is the most dangerous air pollutant.
 The models were built using temperature, Maximum temperature, Minimum temperature, Station Level pressure, Humidity, wind, and visibility.
 The artificial neural network gave the mean absolute error as  31 PM2.5 and the root means squared error as  50 PM2.5.
 
-### [Project7: Bank Customer Churn  (OVERVIEW)](https://github.com/Raph-09/Deep-Learning/blob/main/ANN%20PROJECTS/(Ann)_customer_churn_prediction.ipynb)
+### [Project9: Bank Customer Churn  (OVERVIEW)](https://github.com/Raph-09/Deep-Learning/blob/main/ANN%20PROJECTS/(Ann)_customer_churn_prediction.ipynb)
 Banks need to know beforehand if a customer wants to quit the bank. This will help them to target the individual(s) with ads to lure them into staying.
 This machine learning project tries to ensure that it uses the customer's credit score,  geography, gender, age, tenure, account balance, if he/she has a credit card, and if the person Is an active member of the bank.
 The artificial neural network gave an accuracy score of 80 % on the testing dataset.
 
-### [Project8: Sentiment Analysis (OVERVIEW)](https://github.com/Raph-09/NLP/blob/main/stock_sentiment_analysis.ipynb)
+### [Project10: Sentiment Analysis (OVERVIEW)](https://github.com/Raph-09/NLP/blob/main/stock_sentiment_analysis.ipynb)
 The stock market is a huge market that has made many millionaires. Therefore, it is important to study the sentiment of the news headlines to understand the value of a company.
 This project tries to predict the stock price given 25 news headlines of a given company.
 The models(Random Forest and Naive Bayes) gave an accuracy score of 70%.
 
-### [Project9:Fake News Detection](https://github.com/Raph-09/Deep-Learning/blob/main/RNN_LSTM/(LSTM)_Fake_News_Prediction_.ipynb)
+### [Project11:Fake News Detection](https://github.com/Raph-09/Deep-Learning/blob/main/RNN_LSTM/(LSTM)_Fake_News_Prediction_.ipynb)
 
 We live in a world with lots of fake news articles, and the internet helps to spread them even faster. If we can find a way to capture these fake news articles on time, it will save many folks. This is the motivation behind this project,  in which I predicted if the news is fake by using the title.
 The LSTM model gave an accuracy of 92%.
