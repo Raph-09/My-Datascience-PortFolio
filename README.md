@@ -1,6 +1,31 @@
 ![IMG_20200304_203709 (1)](https://user-images.githubusercontent.com/72034856/130875598-302dffe1-3954-4039-845d-20844932cfee.png)
+# INTRODUCTION
+### My name is Raphael Abasiama and I have 2 years of internship and contract experience in data analytics/science. Proficient in data cleaning/ feature engineering, descriptive, prescriptive and predictive analysis.
+##   SKILLS
+#### DATABASE: 
+MYSQL,
+SQLITE,
+MONGODB
 
+#### DATA ANALYSIS: 
+EXCEL,
+POWERBI, 
+NUMPY,
+MATPLOTLIB,
+SEABORN,
+PLOTLY
 
+#### MACHINE LEARNING AND DEEP LEARNING:
+SKLEARN(Machine Learning),
+KERAS(Deep Learning)
+
+#### FRONTEND: 
+HTML,
+CSS,
+BOOTSTRAP
+
+#####  BACKEND:
+FLASK
 #
 # DATA ANALYSIS PROJECTS
 
@@ -73,7 +98,7 @@ The source of data is kaggle.com
 #
 # DATA SCIENCE PROJECTS
 
-# [Project1: MALL CUSTOMER SEGMENTATION ANALYSIS](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
+# [MALL CUSTOMER SEGMENTATION ANALYSIS](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
 ![CLUSTERING](https://user-images.githubusercontent.com/72034856/158807176-1266efa2-4c77-4e64-a0a1-8c78f099446c.jpg)
 
