@@ -29,7 +29,7 @@ https://github.com/Raph-09/Raphael/blob/main/README.md
   
 ### Data Visualization
 
-1)Use Region as slicer to filter the data
+1)Use Region as slicer to filter the data 
 
 2)Proportion of covid patients that are dead and those that are still alive
 
