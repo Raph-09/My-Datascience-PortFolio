@@ -1,8 +1,7 @@
 ![IMG_20200304_203709 (1)](https://user-images.githubusercontent.com/72034856/130875598-302dffe1-3954-4039-845d-20844932cfee.png)
 
+# DATA ANALYSIS PROJECTS
 
-# LIST OF PROJECTS 
-# DATA ANALYSIS
 ### [Project1:Covid19 Data Analysis](https://github.com/Raph-09/CORONAVIRUS-DATA-ANALYSIS-PowerBI-)
 
 ![covid_pg1](https://user-images.githubusercontent.com/72034856/153959826-29f0543c-b6b7-4166-b58e-ffb14497222e.PNG)
@@ -14,13 +13,13 @@
 2) PowerBI web connector is used to pull the data into PowerBI
 3) Data Transformation is carried out
 
-    a)Remove the "total" rows
+a)Remove the "total" rows
 
-    b)Convert decimals into percentages
+b)Convert decimals into percentages
 
-    c)Replace errors with zeros 
+c)Replace errors with zeros 
 
-    d)Rename invalid column names with correct names
+d)Rename invalid column names with correct names
   
 4)Close and Apply
   
@@ -39,6 +38,30 @@
 6)Top10 Most vaccinated countries
 
 7)Vaccination by Regions
+
+# Cryptocurrency Market  Analysis
+
+![image](https://user-images.githubusercontent.com/72034856/158796822-96d1dea5-0f7f-4416-8af1-bf2495caa47d.png)
+
+
+### Source of data 
+
+The source of data is kaggle.com
+
+### Data Analysis and Visualization
+
+1)Top 10 cryptocurrencies by market values
+
+2)Latest cryptocurrencies
+
+3)Oldest cryptocurrencies
+
+4)Top 10 cryptocurrencies by rank
+
+5)Bitcoin price trend and moving averages
+
+6)Etheruem price trend and moving averages
+
 
 ### [Project1: Employee Salary Prediction(End to End)](https://github.com/Raph-09/Machine-Learning/blob/main/credit-card-fraud-detection-solution.ipynb)
 
