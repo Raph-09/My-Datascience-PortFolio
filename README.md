@@ -11,8 +11,10 @@
 
 # ETL(DATA CLEANING)
 1) Source of data is wikipedia--https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory
+
 2) PowerBI web connector is used to pull the data into PowerBI
-3) Data Transformation is carried out
+
+4) Data Transformation is carried out
 
 a)Remove the "total" rows
 
