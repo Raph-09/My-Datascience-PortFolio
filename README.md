@@ -1,7 +1,5 @@
 ![IMG_20200304_203709 (1)](https://user-images.githubusercontent.com/72034856/130875598-302dffe1-3954-4039-845d-20844932cfee.png)
 
-
-#
 # INTRODUCTION
 ### My name is Raphael Abasiama and I have 2 years of internship and contract experience in data analytics/science. Proficient in data cleaning/ feature engineering, descriptive, prescriptive and predictive analysis.
 ##   SKILLS
